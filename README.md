@@ -1,7 +1,7 @@
-# siamese-one-shot-recognition
+# one-shot-image-recognition
 ## About this project :
 one shot image recognition with siamese neural network. <br>
-The negative images can be downloaded in [here](http://vis-www.cs.umass.edu/lfw/#download)
+The false images can be downloaded in [here](http://vis-www.cs.umass.edu/lfw/#download)
 ## Usage :
 using virtual environment to avoid installing Python packages globally which could break system tools or other projects <br>
 ```bash
